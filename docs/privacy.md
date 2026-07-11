@@ -52,7 +52,7 @@ Each permission is requested when the feature is first used, and the app works w
 
 ## Data deletion
 
-Everything is yours to delete:
+Everything is yours to delete. If you signed in with Google, see the dedicated [Account Deletion](/account-deletion) page for removing your sign-in record and cloud backups — in-app or even after uninstalling. For everything else:
 
 - Remove individual feeds, or use **Clear all feeds** in Settings.
 - Delete local backup files from the Backups tab or your file manager.
