@@ -28,7 +28,7 @@ export default defineConfig({
       { text: 'Privacy', link: '/privacy' },
       {
         text: 'GitHub',
-        link: 'https://github.com/ShinChven/magic-feed'
+        link: 'https://github.com/ShinChven/magic-feed-docs'
       }
     ],
     sidebar: {
@@ -47,7 +47,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ShinChven/magic-feed' }
+      { icon: 'github', link: 'https://github.com/ShinChven/magic-feed-docs' }
     ],
     footer: {
       message: 'Built with Flutter. Documentation powered by VitePress.',

@@ -17,7 +17,7 @@ hero:
       link: /features
     - theme: alt
       text: GitHub
-      link: https://github.com/ShinChven/magic-feed
+      link: https://github.com/ShinChven/magic-feed-docs
 
 features:
   - icon: 🔗

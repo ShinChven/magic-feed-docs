@@ -61,6 +61,6 @@ Everything is yours to delete:
 
 ## Questions
 
-Magic Feed is open source — you can verify everything on this page by reading the code. For questions or concerns, please [open an issue on GitHub](https://github.com/ShinChven/magic-feed/issues).
+Magic Feed is open source — you can verify everything on this page by reading the code. For questions or concerns, please [open an issue on GitHub](https://github.com/ShinChven/magic-feed-docs/issues).
 
 *Last updated: July 11, 2026*
