@@ -25,6 +25,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/getting-started' },
       { text: 'Features', link: '/features' },
+      { text: 'Privacy', link: '/privacy' },
       {
         text: 'GitHub',
         link: 'https://github.com/ShinChven/magic-feed'
