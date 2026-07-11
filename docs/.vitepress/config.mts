@@ -4,11 +4,11 @@ export default defineConfig({
   title: 'Magic Feed',
   description:
     'Save links, generate beautiful share cards, download images, and back up your feed — a rich content sharing app built with Flutter.',
-  base: '/magic-feed/',
+  base: '/',
   lang: 'en-US',
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/magic-feed/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#1ca160' }],
     ['meta', { property: 'og:title', content: 'Magic Feed' }],
     [
