@@ -8,8 +8,8 @@ export default defineConfig({
   lang: 'en-US',
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/magic-feed/logo.svg' }],
-    ['meta', { name: 'theme-color', content: '#7c5cff' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/magic-feed/logo.png' }],
+    ['meta', { name: 'theme-color', content: '#1ca160' }],
     ['meta', { property: 'og:title', content: 'Magic Feed' }],
     [
       'meta',
@@ -20,7 +20,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/getting-started' },

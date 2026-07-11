@@ -6,7 +6,7 @@ hero:
   text: Rich content sharing, built with Flutter.
   tagline: Save links from anywhere, turn them into beautiful share cards and QR codes, collect their images, and keep everything backed up.
   image:
-    src: /logo.svg
+    src: /logo.png
     alt: Magic Feed
   actions:
     - theme: brand
